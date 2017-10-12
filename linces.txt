@@ -1,2 +1,0 @@
-this is license file;
-let us learn the git stage;
